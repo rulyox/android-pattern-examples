@@ -2,6 +2,8 @@
 
 Example implementations of a simple memo app using Kotlin.
 
+![image](image.png)
+
 ## Used Patterns
 
 * [MVC](https://github.com/rulyox/android-mvc-example)
